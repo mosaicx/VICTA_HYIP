@@ -1,0 +1,22 @@
+Profile Page:                                                                                                 
+4. 	KYC Information tab: submit form                                                                          | * |
+5. 	KYC Information tab: field validation and post conditions                                                 | * |
+6. 	Dashboard: info cards colors need to change                                                               | * |
+2. 	KYC Information tab: create initial kyc profile                                                           | * |
+8. 	Register page: Create user record                                                                         | * |
+9. 	Register page: Change submission button from login to register                                            | * |
+10. Register page: Edit services tally (page bottom)                                                          | * |
+11. Login page: Login validation                                                                              | * |
+11. Login page: Edit services tally (page bottom)                                                             | * |
+7. 	Transactions page: Withdraw form- create withdrawal transaction record with pending status                | * |
+15	-Approve/reject user deposits			                                                                  | * |
+14.	-Approve/reject withdrawal transactions                                                                   | * |
+3. 	KYC Information tab: upload image files (ID Front, ID back, Bank card image)                              | * |
+1.	Reset button sends new password to email address                                                          | * |
+13. Create Admin page to manage:                                                                              | * |
+	-Reset password manually                                                                                  | * |
+	-View KYC documents                                                                                       | * |
+	-Reject/Approve KYC documents                                                                             | * |
+	-Automated KYC Reject/Approve email                                                                       | * |
+	-List users                                                                                               |    |
+13. Link values to seesion-related information:																  | * |
